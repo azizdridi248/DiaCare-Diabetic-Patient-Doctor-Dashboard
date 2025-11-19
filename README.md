@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# DiaCare-Diabetic-Patient-Doctor-Dashboard
+DiaCare is a responsive, frontend-only React dashboard designed to help diabetic patients manage their health and allow doctors to monitor patient data.  The project is a modern, eye-friendly, and responsive UI for educational purposes, prototyping, or early-stage health apps.
+>>>>>>> e5a6b1223474a76c49f19e7e58db4a72fa9e0a53
